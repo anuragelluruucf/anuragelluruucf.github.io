@@ -11,54 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+
+* M.S. in Business Analytics, University of Central Flolrida, 2025
+* B.B.A, Vignan University, 2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2024 summer :
+* Dunzo – Business Analyst (Operations & Process Optimization)
+* Duties -Operational Data Analysis: Leveraged data to optimize delivery routes and reduce turnaround times, enhancing logistics efficiency and reducing costs.
+Real-Time Data Utilization: Analyzed real-time data to adjust resource allocation dynamically, ensuring operational processes were aligned with fluctuating demand patterns.
+Process Improvement: Identified bottlenecks in the logistics chain and proposed data-driven solutions to streamline operations, improving both delivery times and customer satisfaction.
+Efficiency Metrics Reporting: Developed and reported on efficiency metrics, providing the operations team with insights to support strategic decisions and improve service levels.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Skill 1: python
+* Skill 2: tableau
+* skill 3: power bi
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
