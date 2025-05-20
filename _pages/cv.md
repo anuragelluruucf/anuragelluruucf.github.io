@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* M.S. in Business Analytics, University of Central Flolrida, 2025
+* M.S. in Business Analytics, University of Central Florida, 2025
 * B.B.A, Vignan University, 2020
 
 Work experience

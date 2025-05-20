@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Anurag Elluru's acdemic website"
+title                    : "Anurag Elluru's academic website"
 title_separator          : "-"
 name                     : &name "Anurag Elluru"
 description              : &description "personal description"
